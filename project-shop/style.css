@@ -273,12 +273,14 @@
     width: 30px;
     top: 10px;
     left: 10px;
+    
     border: 1px solid #2c71b8;
     background-position: center;
   }
   .fav-icon {
     background-image: url(./images/fav-heart-blue.png);
     top: 50px;
+    
   }
   .fullscreen-icon:hover {
     background-image: url(./images/full-screen-white.png);
